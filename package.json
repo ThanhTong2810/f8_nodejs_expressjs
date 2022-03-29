@@ -1,0 +1,29 @@
+{
+  "name": "f8_nodejs_expressjs",
+  "version": "1.0.0",
+  "description": "selft study be from f8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanhTong2810/f8_nodejs_expressjs.git"
+  },
+  "keywords": [
+    "nodejs_expressjs"
+  ],
+  "author": "duongtong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanhTong2810/f8_nodejs_expressjs/issues"
+  },
+  "homepage": "https://github.com/ThanhTong2810/f8_nodejs_expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
